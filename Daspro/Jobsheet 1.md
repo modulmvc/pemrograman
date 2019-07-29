@@ -1,4 +1,4 @@
-##Percobaan 1: Instalasi IDE (Integrated Development Kit) Dev-C++
+Percobaan 1: Instalasi IDE (Integrated Development Kit) Dev-C++
 
 Tujuan:
 Mahasiswa memahami proses instalasi dan lingkungan pengembangan program dengan menggunakan bahasa C
